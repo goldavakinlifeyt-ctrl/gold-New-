@@ -5,7 +5,22 @@
     "name_en": "Super Jump 🚀",
     "name_ar": "قفزة خارقة 🚀",
     "name_fr": "Super Saut 🚀",
-    "desc_en": "Added directly from server!",
     "desc_ar": "تمت إضافتها من السيرفر مباشرة!"
+  },
+  {
+    "id": 100,
+    "key": "cloud_test_2",
+    "name_en": "Invisibility 👻",
+    "name_ar": "تخفي كامل 👻",
+    "name_fr": "Invisibilité 👻",
+    "desc_ar": "زر جديد تم إرساله من السحاب!"
+  },
+  {
+    "id": 101,
+    "key": "cloud_test_3",
+    "name_en": "Server Nuke ☢️",
+    "name_ar": "تدمير السيرفر ☢️",
+    "name_fr": "Bombe Serveur ☢️",
+    "desc_ar": "التحكم المطلق عن بعد."
   }
 ]
